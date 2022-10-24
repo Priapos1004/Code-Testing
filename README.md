@@ -14,6 +14,12 @@ if you want to overwrite an existing environment with the name "testing"
 conda env create --force --file testing.yml
 ```
 
+**NOTE:** Don't forget to activate it ;-)
+
+```
+conda activate testing
+```
+
 ## improve your code
 
 You can run all these commands also recursively that means it will run for all files in all subfolder from your current working directory with replacing `<filename>.py` with `.`.
