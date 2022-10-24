@@ -62,10 +62,10 @@ refurb <filename>.py
 
 ### pytest
 
-[`pytest`](https://docs.pytest.org/) is tool for writing small and readable tests for your code. You can run this for one file with:
+[`pytest`](https://docs.pytest.org/) is tool for writing small and readable tests for your code. You can run this with:
 
 ```
-pytest <filename>.py
+pytest
 ```
 
 ## check your code with github workflow
