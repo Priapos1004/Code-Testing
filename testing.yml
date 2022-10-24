@@ -1,0 +1,13 @@
+name: testing
+channels:
+  - defaults
+dependencies:
+  - python>=3.10
+  - pip
+  - pip:
+    - refurb
+    - mypy
+    - isort
+    - black
+    - flake8
+    - pytest
