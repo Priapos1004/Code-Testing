@@ -76,4 +76,4 @@ pytest
 
 ## check your code with github workflow
 
-create in your repository the folder structure `.github/workflows` and add there `code_quality.yml` to check your code quality after every push.
+create in your repository the folder structure `.github/workflows/` and add there `code_quality.yml` to check your code quality after every push.
